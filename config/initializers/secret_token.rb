@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Lpd::Application.config.secret_key_base = '4edfa38fe61a4ff75b576c572d4a8255b6debe232b1f480a58cbc71dc44b455324e867abe6216e8bca4acb649d23458e74d9953fe8b6061d0a3490d9ab6c2cbe'
+Lpd::Application.config.secret_key_base = 'bf2b2df851701d53628af33bf66dbf3b64141a9f96c9b61fc848fce1bf0c066c1c5f464c9d0c1d283a32eb5b84dfd890ee1f38c35e8277c4eac59aa7db343c25'
